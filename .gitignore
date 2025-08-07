@@ -7,3 +7,4 @@ launch.json
 .pylintrc
 __pycache__
 .pytest_cache
+.coverage
