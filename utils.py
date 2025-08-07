@@ -14,7 +14,7 @@ def get_files_list(file):
     files_list = [os.path.join(DEFAULT_DIRECTORY, path) for path in file]
     return files_list
 
-
+# Получаем список дат для обработки
 def get_search_dates(date_input=None):
     if date_input is None:
         return None
