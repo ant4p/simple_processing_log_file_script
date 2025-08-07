@@ -31,7 +31,7 @@ display_reports.py - модуль содержащий логику привед
 папка test_files - с тестовыми .log файлами, которые можно использовать для проверки работоспособности скрипта <br/>
 папка tests - содержащая файлы тестирования отдельных модулей, на данный момент покрыто тестами <br/>
 <p align="center">
- <img width=auto, height=600  src="images/test_coverage.png" alt="coverage"/>
+ <img width=auto  src="images/test_coverage.png" alt="coverage"/>
 </p>
 <br/>
 
