@@ -16,7 +16,7 @@ python main.py -f example1.log example2.log example3.log -r average --date 2025-
 В данном случае будет выведен в консоль отчёт average сформированный по 3-ём файлам, данные будут отфильтрованы по 2-ум датам.<br/>
 Отчёт будет выглядеть примерно так:<br/>
 <p align="center">
- <img width="400px" src="images/output.png" alt="output"/>
+ <img width=auto src="images/output.png" alt="output"/>
 </p>
 <br/>
 Код проекта разделён на модули: <br/>
@@ -31,7 +31,7 @@ display_reports.py - модуль содержащий логику привед
 папка test_files - с тестовыми .log файлами, которые можно использовать для проверки работоспособности скрипта <br/>
 папка tests - содержащая файлы тестирования отдельных модулей, на данный момент покрыто тестами <br/>
 <p align="center">
- <img width="400px" src="images/test_coverage.png" alt="coverage"/>
+ <img width=width=auto src="images/test_coverage.png" alt="coverage"/>
 </p>
 <br/>
 
